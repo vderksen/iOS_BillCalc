@@ -5,7 +5,6 @@ The user is asked to input the following through UITextField:
 - On-peak usage in kWh (Double)
 - Off-peak usage in kWh (Double)
 - Mid-peak usage in kWh (Double)
-</br>
 
 The following information is used to perform calculations:
 - The charges for on-peak usage are $0.132 per kWh
